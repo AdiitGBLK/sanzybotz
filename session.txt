@@ -1,0 +1,7 @@
+{
+	"clientID": "+aTsXkUzKoeXNq17nNo1Kg==",
+	"serverToken": "1@pQghRaphD13gO41qGS7POdM1Mjt1A0f9lrS3numy1YVLNOF+5/T0ttU0Ll1IYsgS3WY3uoIXwMuYqA==",
+	"clientToken": "G1HA/WV58smvCEUEW2A1/Qououb+nkCYRNU7MVO/xAU=",
+	"encKey": "7FOg171cPRWHLprfFY2fObWCnhoBkqn+sFxDdMrxmwk=",
+	"macKey": "R+8xhRnkLZFrGl7o6LO5j9I/6JZDToENEoUrrKXFNPk="
+}
